@@ -1,4 +1,4 @@
-![](https://github.com/rafaelfrancodev/reactjs-test/react-test.gif)
+![](https://github.com/rafaelfrancodev/reactjs-test/blob/main/react-test.gif)
 
 #Install NodeJS Node Version 14.17.1
 https://nodejs.org/en/
